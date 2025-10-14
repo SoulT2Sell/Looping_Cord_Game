@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - HealthPickup
+  - FxTemporaire
+  - DamageZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - cord
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2897529267
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 455416567
+    locked: 0
+  - name: Chord
+    uniqueID: 1785117485
+    locked: 0
+  - name: Instractable
+    uniqueID: 818471829
+    locked: 0
+  - name: Particle
+    uniqueID: 3622602817
+    locked: 0
+  - name: Player
+    uniqueID: 2822954297
+    locked: 0
+  - name: Obsticles
+    uniqueID: 2968081629
+    locked: 0
+  - name: Enemy
+    uniqueID: 3436101739
+    locked: 0
+  m_RenderingLayers:
+  - Default
