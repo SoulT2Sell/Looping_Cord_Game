@@ -1,7 +1,7 @@
 # Looping-Cord-Game
 
 A game where you kill enemies by looping your cord around them!  
-We submitted this project to the **2025 GameJam**.
+This project submitted to the **2025 GameJam**.
 
 ## Contributors
 - [@Hamidreza soulHRsell](https://github.com/soulHRsell) (https://itch.io/profile/soul-to-sell)
